@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@types/node": "^20.2.3",
     "typescript": "^5"
   }
 }

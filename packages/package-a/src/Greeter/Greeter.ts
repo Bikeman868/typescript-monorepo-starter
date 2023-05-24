@@ -10,5 +10,5 @@ export class Greeter {
     }
   }
   
-  let greeter: Greeter = new Greeter('package a');
+let greeter: Greeter = new Greeter('package a');
 greeter.greet()
